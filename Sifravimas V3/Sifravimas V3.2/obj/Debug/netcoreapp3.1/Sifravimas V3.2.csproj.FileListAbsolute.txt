@@ -1,0 +1,15 @@
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\bin\Debug\netcoreapp3.1\Sifravimas V3.2.exe
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\bin\Debug\netcoreapp3.1\Sifravimas V3.2.deps.json
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\bin\Debug\netcoreapp3.1\Sifravimas V3.2.runtimeconfig.json
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\bin\Debug\netcoreapp3.1\Sifravimas V3.2.runtimeconfig.dev.json
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\bin\Debug\netcoreapp3.1\Sifravimas V3.2.dll
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\bin\Debug\netcoreapp3.1\Sifravimas V3.2.pdb
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\obj\Debug\netcoreapp3.1\Sifravimas V3.2.csprojAssemblyReference.cache
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\obj\Debug\netcoreapp3.1\Sifravimas_V3._2.Form1.resources
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\obj\Debug\netcoreapp3.1\Sifravimas V3.2.csproj.GenerateResource.cache
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\obj\Debug\netcoreapp3.1\Sifravimas V3.2.AssemblyInfoInputs.cache
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\obj\Debug\netcoreapp3.1\Sifravimas V3.2.AssemblyInfo.cs
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\obj\Debug\netcoreapp3.1\Sifravimas V3.2.csproj.CoreCompileInputs.cache
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\obj\Debug\netcoreapp3.1\Sifravimas V3.2.dll
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\obj\Debug\netcoreapp3.1\Sifravimas V3.2.pdb
+C:\Users\kajus\source\repos\Sifravimas V3.2\Sifravimas V3.2\obj\Debug\netcoreapp3.1\Sifravimas V3.2.genruntimeconfig.cache

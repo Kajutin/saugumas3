@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zqsGhy1LbUlTOJK65PjwAlotj9OtvCnFUjLXvWVAuKvRrGgAFp0PT48AHpBS4Ni0zPrK6JUysas7a6w3rPq8vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kajus\\source\\repos\\Sifravimas V3.2\\Sifravimas V3.2\\Sifravimas V3.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kajus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
